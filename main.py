@@ -1,3 +1,5 @@
 """Projeto para treinamento de Python e Git"""
 
-print("Hello World\n")
+
+def main():
+    print("Hello World\n")
