@@ -2,4 +2,5 @@
 
 
 def main():
+    """Função main"""
     print("Hello World\n")
