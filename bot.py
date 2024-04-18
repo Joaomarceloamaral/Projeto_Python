@@ -45,7 +45,7 @@ def main():
     webbot.browser = Browser.FIREFOX
 
     # Uncomment to set the WebDriver path
-    webbot.driver_path = r"bot_python\drivers\geckodriver.exe"
+    webbot.driver_path = r"drivers\geckodriver.exe"
 
     # Opens the BotCity website.
     webbot.browse("https://www.botcity.dev")
